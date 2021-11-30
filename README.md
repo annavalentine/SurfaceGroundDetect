@@ -5,5 +5,4 @@ For application of code see: https://github.com/AdventureData/radicl
 
 Author: Anna Valentine
 
-Created: 11/15/21 \n
-Last Updated: 11/30/29
+Created: 11/15/21      #Last Updated: 11/30/29
